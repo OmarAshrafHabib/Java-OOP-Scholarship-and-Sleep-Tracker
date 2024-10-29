@@ -22,5 +22,3 @@ Each class includes Javadoc comments, providing details on purpose, parameters, 
 - `SleepTracker.java`: Code for sleep tracking and reporting.
 - Sample outputs are included in the archive for reference.
 
-## License
-This project is for educational purposes.
